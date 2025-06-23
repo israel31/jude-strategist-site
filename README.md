@@ -18,6 +18,6 @@ To convert cold leads into booked strategy calls by clearly communicating Jude�
 - Call to Action
 
 🌍 **Live Link:**  
-[https://yourusername.github.io/jude-strategist-site/](https://yourusername.github.io/jude-strategist-site/)
+[[https://israel31.github.io/jude-strategist-site/](https://israel31.github.io/jude-strategist-site/)
 
 ✍️ This is a sample client site for demonstration purposes.
